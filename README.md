@@ -1,3 +1,9 @@
+# Este es un proyecto para practicar React.js
+
+El proyecto consiste en un input para buscar un dato. El valor de este input sera buscado en un archivo local .json y se crearan elementos a partir de un array que contiene los resultados de la busqueda
+
+El proyecto no esta pasado por el comando "build" de React, por lo que el proyecto no funcionara si se pretende ejecutarlo con HTML y Js Vanilla
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
